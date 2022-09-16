@@ -28,7 +28,7 @@ desejamos realizar a matrícula de alunos em cursos através de um painel admini
 - Utilizar técnicas do livro "Clean Code" para nomenclatura de variavéis, métodos e funções;
 - O banco utilizado pode ser de sua preferência (No-SQL, Relacional);
 
-####CRUD de Áreas de Cursos
+#### CRUD de Áreas de Cursos
 
  Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar uma área de curso (Biologia, Química, Física, por exemplo).
 
