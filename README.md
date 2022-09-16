@@ -11,6 +11,10 @@ desejamos realizar a matrícula de alunos em cursos através de um painel admini
 
 **Obs.:** O painel não deve ter CSS ou estilização alguma, o objetivo deste teste é para prática de conhecimentos em lógica.
 
+# Escopo 
+
+Deve-se criar uma aplicação em PHP para resolver o problema descrito abaixo, utilizando framework Laravel 8. Fique a vontade para explorar todo o seu conhecimento em PHP, Laravel ou qualquer outra ferramenta da linguagem.
+
 # Requisitos
 
 - Um aluno pode ser matriculado em mais de um curso.
