@@ -25,7 +25,6 @@ Deve-se criar uma aplicação em PHP para resolver o problema descrito abaixo, u
 ##### Obrigatórios:
 - Utilizar Laravel 8;
 - Utilizar arquitetura de sua preferência;
-- As tabelas devem ser criadas com migrations;
 - O código deve estar bem identado;
 - O código deve estar bem comentado;
 - Os arquivos devem estar bem organizados;
