@@ -1,4 +1,4 @@
-# Teste prático - Programador(a) PHP Pleno – Laravel
+# Teste prático - Programador(a) PHP – Laravel
 
 [![N|Iboss tecnologias](https://ibosstecnologias.com/assets/img/header_logo.svg)](https://ibosstecnologias.com/)
 
